@@ -1,0 +1,4 @@
+docker run -e POSTGRES_PASSWORD=root -p 5432:5432 postgres //запуск БД на докере
+
+user=postgres
+password=root
