@@ -1,3 +1,12 @@
+Для работы Docker:
+
+- Docker версии 18 и выше;
+- docker compose 1.24 и выше
+- curl
+- Свободный порт, например 80.
+
+
+
 docker run ubuntu:18.10                                                                       //команда для сборки docker-образа из командной строки
 
 docker build -t my_container .                                                                //команда собирает образ Docker из Dockerfile
