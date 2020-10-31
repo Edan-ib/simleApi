@@ -7,7 +7,7 @@
 
 
 
-docker run ubuntu:18.10                                                                       //команда для сборки docker-образа из командной строки
+docker run -p 8080:8080 myapi:latest                                                           //команда для сборки docker-образа из командной строки
 
 docker build -t my_container .                                                                //команда собирает образ Docker из Dockerfile
 docker build . -t myapi:latest                                                                //команда собирает образ Docker из Dockerfile
