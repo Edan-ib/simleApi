@@ -10,6 +10,7 @@
 docker run ubuntu:18.10                                                                       //команда для сборки docker-образа из командной строки
 
 docker build -t my_container .                                                                //команда собирает образ Docker из Dockerfile
+docker build . -t myapi:latest                                                                //команда собирает образ Docker из Dockerfile
 
 docker pull <Name Image>                                                                     //большинство образов создаётся на основе базового образа из Docker Hub
 
