@@ -7,4 +7,4 @@
 # Целью лабораторной работы является знакомство с CI/CD и его реализацией на примере Travis CI и Heroku.
 
 
-![Проект](https://yadi.sk/d/8bML1sTJfaT5QA)
+![Проект](https://yadi.sk/d/8bML1sTJfaT5QA"Ссылка на проект")
